@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\ForOptimization\ForOptimization\bin\Debug\ForOptimization.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\ForOptimization\ForOptimization\bin\Debug\ForOptimization.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\ForOptimization\ForOptimization\obj\Debug\ForOptimization.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\ForOptimization\ForOptimization\obj\Debug\ForOptimization.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\ForOptimization\ForOptimization\obj\Debug\ForOptimization.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\ForOptimization\ForOptimization\obj\Debug\ForOptimization.pdb
